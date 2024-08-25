@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "post"
+  },
+  {
+    "name": "text",
+    "fieldId": "text",
+    "modelId": "post",
+    "componentId": "multi-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
